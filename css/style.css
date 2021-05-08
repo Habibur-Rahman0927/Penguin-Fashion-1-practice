@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.background-color{
+    background: #FFFBF0;
+
+}
+.logo-img{
+    width: 272px;
+    height: 43px;
+}
+
+.img img{
+    width: 450px;
+    height: 450px;
+    margin-bottom: 70px;
+}
+
+.content{
+    margin: 40px 0px;
+}
+
+.font{
+    font-size: 47px;
+    text-transform: uppercase;
+}
+.font-margin{
+    margin: 40px 0px;
+}
+
+.color1{
+    color: #FABE4C;
+}
+.colors2{
+    color: #363958;
+}
+.btn-color{
+    background-color: #9AB337;
+    color:white;
+    padding: 15px;
+
+}
+.btn-logo{
+    height: 30px;
+    width: 30px;
+}
+.background-for-all{
+    background: #FFFFFF;
+}
+
+
+
+.card-img-top{
+    padding: 50px;
+}
+.card-img-top1{
+    margin-top: 48px;
+    padding: 5px;
+    margin-bottom: 32px;
+}
+.card-img-top2{
+    padding: 35px;
+    margin-bottom: 20px;
+}
+
+.image-background{
+    background-color: #F1F1F1;
+    border-radius: 30px;
+}
+
+.paddin-all-items{
+    padding: 15px;
+}
+
+.card{
+    border:none;
+    box-shadow: 5px 5px  10px lightgray;
+}
+
+.color2{
+    color: #FABE4C;
+    font-size: 30px;
+}
+.card-img-top-boy{
+    padding: 50px;
+    margin-bottom: -22px;
+}
+
+.card-img-top-boy1{
+    margin-top: 27px;
+    padding: 23px;
+    margin-bottom: 40px;
+}
+
+
+.home-row{
+    margin: 100px 0px;
+}
+
+.for-img img{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.articl-for{
+    margin: 20px;
+}
+
+
+.box-all{
+    border-radius: 10px;
+    box-shadow: 5px 5px  10px lightgray;
+    margin: 15px;
+}
+
+.icon-image{
+    width: 100%;
+    margin: 120px 0px;
+}
+
+.background-from{
+    background: #41424e41;
+}
+
+
+footer{
+    background: rgba(243, 130, 0, 0.609);
+    padding:20px 23px;
+    color:#fff;
+    text-align: center;
+}
+footer span a{
+    color: rgba(190, 245, 242, 0.644);
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
